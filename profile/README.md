@@ -1,13 +1,11 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, We are BD Computing Limited</h1>
+<h1 align="center">Hi there 👋, We are BD Computing Limited</h1>
 <h3 align="center">At BD Computing, we offer reliable and cost-effective software development services tailored to meet the specific needs of our clients. Our skilled and experienced software developers work collaboratively with clients to deliver scalable, flexible, and secure custom software solutions. We utilize the latest technologies and programming languages to create efficient, high-performing, and user-friendly software. From software design to development, testing, deployment, and maintenance, our team ensures that every project is completed on time, within budget, and to the highest quality standards. We are committed to providing exceptional software development services that enable our clients to achieve their business goals and drive growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bd-computing&label=Profile%20views&color=0e75b6&style=flat" alt="bd-computing" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd-computing" alt="bd-computing" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/bdcomputingke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/bdcomputingke/" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/bdcomputinglimited" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/bdcomputinglimited" height="30" width="40" /></a>
