@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, We are BD Computing Limited</h1>
+<h1>Hi there 👋, We are BD Computing Limited</h1>
 <h3 >At BD Computing, we offer reliable and cost-effective software development services tailored to meet the specific needs of our clients. Our skilled and experienced software developers work collaboratively with clients to deliver scalable, flexible, and secure custom software solutions.</h3>
 <h3 >We utilize the latest technologies and programming languages to create efficient, high-performing, and user-friendly software. From software design to development, testing, deployment, and maintenance, our team ensures that every project is completed on time, within budget, and to the highest quality standards. </h3>
 <h3 >We are committed to providing exceptional software development services that enable our clients to achieve their business goals and drive growth.</h3>
